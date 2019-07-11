@@ -38,7 +38,7 @@
     },
     "autoload": {
         "psr-4": {
-            "elephantsgroup\\ckeditor\\": "src"
+            "elephantsGroup\\ckeditor\\": "src"
         }
     },
     "config": {
