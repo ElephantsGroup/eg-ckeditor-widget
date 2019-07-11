@@ -4,11 +4,11 @@
  * @link http://www.nabi.ir
  * @license http://www.opensource.org/licenses/bsd-license.php New BSD License
  */
-namespace dosamigos\ckeditor;
+namespace elephantsGroup\ckeditor;
 
 use yii\web\AssetBundle;
 
 class KCFinderAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/sunhater/kcfinder';
+    public $sourcePath = '@vendor/elephantsgroup/kcfinder';
 }

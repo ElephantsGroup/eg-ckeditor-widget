@@ -1,5 +1,5 @@
 {
-    "name": "2amigos/yii2-ckeditor-widget",
+    "name": "elephantsgroup/eg-ckeditor-widget",
     "description": "CKEditor widget for Yii2.",
     "type": "yii2-extension",
     "keywords": [
@@ -11,7 +11,7 @@
         "widget",
         "ckeditor"
     ],
-    "homepage": "http://yiiwheels.com/extension/ckeditor-widget",
+    "homepage": "https://github.com/elephantsGroup/eg-ckeditor-widget",
     "license": "BSD-3-Clause",
     "minimum-stability": "dev",
     "prefer-stable": true,
@@ -29,7 +29,7 @@
     },
     "require": {
         "yiisoft/yii2": "^2.0",
-        "ckeditor/ckeditor": "^4.7 || dev-full/4.11.x",
+        "ckeditor/ckeditor": "^4.12.x",
         "sunhater/kcfinder": "*"
     },
     "require-dev": {
