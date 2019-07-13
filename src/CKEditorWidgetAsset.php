@@ -18,7 +18,7 @@ use yii\web\AssetBundle;
  */
 class CKEditorWidgetAsset extends AssetBundle
 {
-    public $sourcePath = '@vendor/elephantsGroup/eg-ckeditor-widget/src/assets/';
+    public $sourcePath = '@vendor/elephantsgroup/eg-ckeditor-widget/src/assets/';
 
     public $depends = [
         'elephantsGroup\ckeditor\CKEditorAsset'
